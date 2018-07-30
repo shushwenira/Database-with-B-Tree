@@ -33,7 +33,7 @@ Instead use “_”: INSERT INTO employee VALUES ( ‘John_Doe’ );
 
 
 Software stack used while developing and running the project	
-	- Language: Java 9
-	- Compiler: jdk-9.0.4
-	- IDE: Eclipse JEE Oxygen
-	- O/S: Windows 10
+- Language: Java 9
+- Compiler: jdk-9.0.4
+- IDE: Eclipse JEE Oxygen
+- O/S: Windows 10
