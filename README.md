@@ -1,4 +1,4 @@
-# Database-with-B-Tree
+# Database with B+ Tree
 A rudimentary database designed in Java using B+ Trees
 
 - Compile the project source file 
