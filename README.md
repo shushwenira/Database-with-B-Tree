@@ -8,7 +8,7 @@ A rudimentary database designed in Java using B+ Trees
 		  (davisql> prompt will be started.)
 
 
-Desgin Decisions:
+Design Decisions:
 
 - Every command literal (keywords, values, column names, commas, brackets, conditions, operators, etc.) must be space separated. Otherwise it will throw a syntax error.
 E.g.: CREATE TABLE employee ( rowid INT PRIMARY KEY , name TEXT NOT NULL );
